@@ -1,14 +1,6 @@
-## 🌌 技术栈
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,vue,mysql,linux&perline=4" alt="skills">
-</div>
+### 技术栈
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,vue,mysql,linux&perline=8" alt="skills">
 
-## 📊 GitHub 统计
+### 活跃度趋势
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huey1in&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=huey1in&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huey1in&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-
-
-</div>

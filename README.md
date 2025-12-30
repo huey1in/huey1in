@@ -3,7 +3,7 @@
 <img align="left" width="40%" src="https://skillicons.dev/icons?i=python,java,html,css,js,vue,mysql,linux&perline=4" alt="skills" />
 
 <!-- 贡献数据 -->
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=huey1in&show_icons=true&bg_color=141321&title_color=fe428e&text_color=ffffff&icon_color=fe428e&hide_border=true" alt="stats" />
+<!-- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=huey1in&show_icons=true&bg_color=141321&title_color=fe428e&text_color=ffffff&icon_color=fe428e&hide_border=true" alt="stats" /> -->
 
 <br clear="all" />
 <br />
@@ -17,6 +17,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huey1in/huey1in/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huey1in/huey1in/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
 
 
 

@@ -8,8 +8,7 @@
 <br clear="all" />
 <br />
 
-### 活跃度
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huey1in&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=huey1in&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="1in's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=huey1in&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
 
 ### 贡献图
 <picture>
@@ -17,6 +16,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huey1in/huey1in/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huey1in/huey1in/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
 
 
 

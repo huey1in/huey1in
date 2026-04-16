@@ -1,5 +1,6 @@
 ### 技术栈&贡献数据
-![skills](https://skillicons.dev/icons?i=bash,cloudflare,css,docker,electron,git,github,githubactions,html,js,linux,md,nodejs,pnpm,pr,py,raspberrypi,react,redis,sqlite,tauri,ts,vscode,vue)
+<img src="https://skillicons.dev/icons?i=bash,cloudflare,css,docker,electron,git,github,githubactions,html,js,linux,md,nodejs,pr,py,react,redis,sqlite,tauri,ts,vscode,vue&perline=11" width="800" />
+
 
 <br clear="all" />
 <br />

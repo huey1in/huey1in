@@ -5,7 +5,12 @@
 <br clear="all" />
 <br />
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=huey1in&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="1in's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=huey1in&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=huey1in&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=480" alt="1in's GitHub stats" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=huey1in&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER&card_width=480" alt="Top Langs" width="100%" /></td>
+  </tr>
+</table>
 
 ### 贡献图
 <picture>

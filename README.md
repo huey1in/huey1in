@@ -4,8 +4,6 @@
 <br clear="all" />
 <br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,electron,tauri,git,github,nodejs,py,go,vscode,sqlite,mysql,md&perline=8" width="600" style="border: none !important;" />
-
 ### 贡献图
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huey1in/huey1in/output/github-contribution-grid-snake-dark.svg">
